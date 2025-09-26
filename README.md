@@ -12,5 +12,4 @@ Includes API handling, Elasticsearch indexing, semantic search, and real-time qu
 
 **Key Highlights:**  
 - ⚙️ Backend API handling & request processing  
-- 📦 Elasticsearch & semantic search integration  
-- 🔒 Secure, scalable infrastructure setup
+- 📦 Elasticsearch & semantic search integration 
